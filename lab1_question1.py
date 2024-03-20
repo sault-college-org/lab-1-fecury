@@ -1,0 +1,7 @@
+print (4)
+print (2*1)
+print ('Hello World!')
+print ('no meio do caminho tinha uma pedra')
+print ('tinha uma pedra no meio do caminho')
+print ('tinha uma pedra')
+print ('no meio do caminho tinha uma pedra')
